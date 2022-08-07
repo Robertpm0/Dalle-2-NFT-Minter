@@ -119,7 +119,7 @@ export default function Home() {
                   src={result.generation.image_path}
                 />
                 <div onClick={mintButton(result.generation.image_path, query,addy)}>
-                click to mint
+                click here to mint
                 </div>
               </div>
             );
