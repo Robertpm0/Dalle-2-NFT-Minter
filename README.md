@@ -1,2 +1,2 @@
 How to use:
-coming soon......
+Step1:: join waitlist here: https://labs.openai.com/waitlist
