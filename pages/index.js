@@ -6,8 +6,8 @@ import { rainbowCursor } from "cursor-effects";
 import { Moralis } from "moralis";
 
 export default function Home() {
-  const serverUrl = "https://.usemoralis.com:/server";
-  const appId = "";
+  const serverUrl = ""; //insert Moralis Serverl URL
+  const appId = ""; // inser your Moralis AppId
   Moralis.start({ serverUrl, appId });
   const [token, setToken] = useState("");
   const [query, setQuery] = useState("");
