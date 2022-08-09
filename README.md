@@ -1,7 +1,7 @@
 Inspired by 1998Code's repo: https://github.com/1998code/DALLE-2-App
 Credit to OpenAI's Dalle-2: https://openai.com/dall-e-2/
 
-## CREATE ** EFFORTLESS, ** BEAUTIFUL, and ** IMMUTABLE ART with the POWER of ** AI and ** NFT's
+## CREATE * * EFFORTLESS, * * BEAUTIFUL, and * * IMMUTABLE ART with the POWER of * * AI and * * NFT's
 
 ### How to use:
 
