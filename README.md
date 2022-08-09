@@ -15,4 +15,6 @@ step4:: fork, yarn install, yarn dev
 
 step5:: enter bearer key, enter your desired prompt, enter desired ETH address for NFT minting
 
-step6:: click the mint button under any  image you would like to mint into an ERC-271
+step6:: click the button and generate art!
+
+step6:: for any image you would like to mint into an ERC-271 press the button underneath the corresponding image
