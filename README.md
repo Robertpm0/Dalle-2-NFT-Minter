@@ -22,4 +22,4 @@ step8:: enter bearer key, enter your desired prompt, enter desired ETH address f
 
 step9:: click the button and generate art!
 
-step10:: for any image you would like to mint into an ERC-271 press the button underneath the corresponding image
+step10:: for any image you would like to mint into an ERC-721 press the button underneath the corresponding image
